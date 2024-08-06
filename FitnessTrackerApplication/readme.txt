@@ -1,6 +1,5 @@
 README
-EMP_NAME: Varshini Adi
-EMP_ID: 70983753
+
  
 Frontend Setup:
 1.Extract the file: Unzip or extract the project file.
