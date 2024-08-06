@@ -1,0 +1,15 @@
+/* .home-page-image {
+    /* width: 40; 
+    height:70; */
+    /* background-size: 20 20; */
+ /* } */
+
+.main {
+  background: linear-gradient(maroon, black);
+}
+
+.row {
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
